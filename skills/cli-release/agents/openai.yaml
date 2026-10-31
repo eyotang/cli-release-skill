@@ -1,0 +1,4 @@
+interface:
+  display_name: "CLI Development & Release"
+  short_description: "Native CLI installation, self-updates, and releases"
+  default_prompt: "Use $cli-release to implement and verify this CLI's bootstrap installation, GitHub Release updates, and cross-platform release workflow."
